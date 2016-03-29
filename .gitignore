@@ -12,3 +12,5 @@ tinyxml2/tinyxml2-cbp/obj/
 *.depend
 *.layout
 *.o
+
+temp/
